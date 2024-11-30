@@ -15,7 +15,7 @@ A dynamic landing page showcasing sports news and updates. It features a user-fr
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/username/sports-world.git
+    git clone https://https://github.com/Praneeth1210/MyProject.git
     ```
 2. Open the `index.html` file in your browser.
 
