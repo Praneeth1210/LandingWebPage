@@ -17,10 +17,10 @@ A dynamic landing page showcasing sports news and updates. It features a user-fr
     ```bash
     git clone https://https://github.com/Praneeth1210/MyProject.git
     ```
-2. Open the `index.html` file in your browser.
+2. Open the `landingpage.html` file in your browser.
 
 ## Usage
-View the landing page directly by opening the `index.html` file.
+View the landing page directly by opening the `landingpage.html` file.
 
 ## License
 MIT License
